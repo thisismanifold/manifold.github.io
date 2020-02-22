@@ -10,6 +10,9 @@ MIT
 @angular/router
 MIT
 
+@nicky-lenaers/ngx-scroll-to
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
